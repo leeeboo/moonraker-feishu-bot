@@ -5,5 +5,7 @@ Config Example:
 
 ```
 [push_feishu_bot]
-feishu_bot_secret: YOUR FEISHU BOT SECRET (Follow: [Doc](https://open.feishu.cn/document/ukTMukTMukTM/ucTM5YjL3ETO24yNxkjN))
+feishu_bot_secret: YOUR FEISHU BOT SECRET
 ```
+
+[BOT DOC](https://open.feishu.cn/document/ukTMukTMukTM/ucTM5YjL3ETO24yNxkjN)
